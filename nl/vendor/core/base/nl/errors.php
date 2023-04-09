@@ -1,24 +1,24 @@
 <?php
 
 return [
-    '401_title' => 'Permission Denied',
-    '401_msg' => '<li>You have not been granted access to the section by the administrator.</li>
-	                <li>You may have the wrong account type.</li>
-	                <li>You are not authorized to view the requested resource.</li>
-	                <li>Your subscription may have expired.</li>',
-    '404_title' => 'Page could not be found',
-    '404_msg' => '<li>The page you requested does not exist.</li>
-	                <li>The link you clicked is no longer.</li>
-	                <li>The page may have moved to a new location.</li>
-	                <li>An error may have occurred.</li>
-	                <li>You are not authorized to view the requested resource.</li>',
-    '500_title' => 'Page could not be loaded',
-    '500_msg' => '<li>The page you requested does not exist.</li>
-	                <li>The link you clicked is no longer.</li>
-	                <li>The page may have moved to a new location.</li>
-	                <li>An error may have occurred.</li>
-	                <li>You are not authorized to view the requested resource.</li>',
-    'reasons' => 'This may have occurred because of several reasons',
-    'try_again' => 'Please try again in a few minutes, or alternatively return to the homepage by <a href="' . route('dashboard.index') . '">clicking here</a>.',
-    'not_found' => 'Not Found',
+    '401_title' => 'Toestemming geweigerd',
+    '401_msg' => '<li>Je hebt geen toegang tot de sectie gekregen van de beheerder.</li>'."\n"
+        .'	                <li>Misschien hebt u het verkeerde accounttype.</li>'."\n"
+        .'	                <li>U bent niet geautoriseerd om de aangevraagde bron te bekijken.</li>'."\n"
+        .'	                <li>Je abonnement is mogelijk verlopen.</li>',
+    '404_title' => 'Pagina kon niet gevonden worden',
+    '404_msg' => '<li>De door u opgevraagde pagina bestaat niet.</li>'."\n"
+        .'	                <li>De link waarop je hebt geklikt bestaat niet meer.</li>'."\n"
+        .'	                <li>De pagina is mogelijk verplaatst naar een nieuwe locatie.</li>'."\n"
+        .'	                <li>Er is mogelijk een fout opgetreden.</li>'."\n"
+        .'	                <li>U bent niet geautoriseerd om de gevraagde bron te bekijken.</li>',
+    '500_title' => 'Pagina kon niet worden geladen',
+    '500_msg' => '<li>De door u opgevraagde pagina bestaat niet.</li>'."\n"
+        .'	                <li>De link waarop je hebt geklikt bestaat niet meer.</li>'."\n"
+        .'	                <li>De pagina is mogelijk verplaatst naar een nieuwe locatie.</li>'."\n"
+        .'	                <li>Er is mogelijk een fout opgetreden.</li>'."\n"
+        .'	                <li>U bent niet geautoriseerd om de gevraagde bron te bekijken.</li>',
+    'reasons' => 'Dit kan verschillende redenen hebben',
+    'try_again' => 'Probeer het over een paar minuten opnieuw, of ga terug naar de homepage door <a href="https://shopwise.test/admin">hier te klikken</a>.',
+    'not_found' => 'Niet gevonden',
 ];
