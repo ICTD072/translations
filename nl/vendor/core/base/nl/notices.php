@@ -1,17 +1,17 @@
 <?php
 
 return [
-    'create_success_message' => 'Aanmaken gelukt',
-    'update_success_message' => 'Bijwerken gelukt',
-    'delete_success_message' => 'Verwijderen gelukt',
+    'create_success_message' => 'Met succes aangemaakt',
+    'update_success_message' => 'Met succes bijgewerkt',
+    'delete_success_message' => 'Met succes verwijderd',
     'success_header' => 'Succes!',
     'error_header' => 'Fout!',
-    'no_select' => 'Please select at least one record to perform this action!',
-    'processing_request' => 'We verwerken je verzoek.',
-    'error' => 'Fout!',
+    'no_select' => 'Selecteer ten minste één record om deze actie uit te voeren!',
+    'processing_request' => 'We zijn je verzoek aan het verwerken.',
+    'error' => 'Error!',
     'success' => 'Succes!',
     'info' => 'Info!',
     'enum' => [
-        'validate_message' => 'The :attribute value you have entered is invalid.',
+        'validate_message' => 'De ingevoerde :attribute waarde is ongeldig.',
     ],
 ];
