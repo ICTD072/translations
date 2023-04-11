@@ -30,6 +30,7 @@ return [
     'create' => 'Aanmaken',
     'rename' => 'Hernoemen',
     'close' => 'Sluiten',
+    'crop' => 'Bijsnijden',
     'save_changes' => 'Wijzigingen opslaan',
     'move_to_trash' => 'Verplaats items naar de prullenbak',
     'confirm_trash' => 'Weet u zeker dat u deze items naar de prullenbak wilt verplaatsen?',
