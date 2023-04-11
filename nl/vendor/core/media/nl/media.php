@@ -116,11 +116,13 @@ return [
         'actions_list' => [
             'basic' => [
                 'preview' => 'Voorbeeld',
+                'crop' => 'Bijsnijden',
             ],
             'file' => [
                 'copy_link' => 'Kopieer link',
                 'rename' => 'Hernoemen',
                 'make_copy' => 'Maak een kopie',
+                'alt_text' => 'Alt tekst',
             ],
             'user' => [
                 'favorite' => 'Toevoegen aan favorieten',
