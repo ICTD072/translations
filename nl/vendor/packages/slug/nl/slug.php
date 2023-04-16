@@ -4,10 +4,10 @@ return [
     'permalink_settings' => 'Permalink',
     'settings' => [
         'title' => 'Permalink instellingen',
-        'description' => 'Manage permalink voor alle modules.',
-        'preview' => 'Preview',
-        'turn_off_automatic_url_translation_into_latin' => 'Turn off automatic URL translation into Latin?',
+        'description' => 'Beheer permalink voor alle modules.',
+        'preview' => 'Voorbeeld',
+        'turn_off_automatic_url_translation_into_latin' => 'Automatische URL-vertaling in het Latijn uitschakelen?',
     ],
-    'preview' => 'Preview',
-    'prefix_for' => 'Prefix voor :name',
+    'preview' => 'Voorbeeld',
+    'prefix_for' => 'Voorvoegsel voor :name',
 ];
