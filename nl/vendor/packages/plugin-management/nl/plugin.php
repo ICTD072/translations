@@ -9,6 +9,7 @@ return [
     'author' => 'Door',
     'update_plugin_status_success' => 'Plug-in succesvol bijgewerkt',
     'plugins' => 'Plug-ins',
+    'plugins_add_new' => 'Plug-in toevoegen',
     'missing_required_plugins' => 'Activeer plug-in(s): :plugins voordat u deze plug-in activeert!',
     'remove' => 'Verwijderen',
     'remove_plugin_success' => 'Plug-in succesvol verwijderd!',
