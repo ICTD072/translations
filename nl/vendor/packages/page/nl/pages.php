@@ -1,28 +1,28 @@
 <?php
 
 return [
-    'create'         => 'Create new page',
-    'edit'           => 'Edit page',
-    'form'           => [
-        'name'             => 'Name',
-        'name_placeholder' => 'Page\'s name (Maximum 120 characters)',
-        'content'          => 'Content',
-        'note'             => 'Note content',
+    'create' => 'Nieuwe pagina maken',
+    'edit' => 'Pagina bewerken',
+    'form' => [
+        'name' => 'Naam',
+        'name_placeholder' => 'Naam van pagina (maximaal 120 tekens)',
+        'content' => 'Inhoud',
+        'note' => 'Opmerking inhoud',
     ],
-    'notices'        => [
-        'no_select'              => 'Please select at least one record to take this action!',
-        'update_success_message' => 'Update successfully',
+    'notices' => [
+        'no_select' => 'Selecteer ten minste één record om deze actie uit te voeren!',
+        'update_success_message' => 'Update succesvol',
     ],
-    'cannot_delete'  => 'Page could not be deleted',
-    'deleted'        => 'Page deleted',
-    'pages'          => 'Pages',
-    'menu'           => 'Pages',
-    'menu_name'      => 'Pages',
-    'edit_this_page' => 'Edit this page',
-    'total_pages'    => 'Total pages',
-    'settings'       => [
-        'show_on_front' => 'Your homepage displays',
-        'select'        => '— Select —',
+    'cannot_delete' => 'Pagina kan niet worden verwijderd',
+    'deleted' => 'Pagina verwijderd',
+    'pages' => 'Pagina\'s',
+    'menu' => 'Pagina\'s',
+    'menu_name' => 'Pagina\'s',
+    'edit_this_page' => 'Bewerk deze pagina',
+    'total_pages' => 'Totaal pagina\'s',
+    'settings' => [
+        'show_on_front' => 'Uw startpagina wordt weergegeven',
+        'select' => '— Selecteer —',
     ],
-    'front_page'     => 'Front Page',
+    'front_page' => 'Voorpagina',
 ];
