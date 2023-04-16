@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'api_enabled' => 'API ingeschakeld',
+    'settings' => 'API instellingen',
     'save_settings' => 'Instellingen opslaan',
+    'setting_title' => 'API instellingen',
     'setting_description' => 'Instellingen voor API',
-    'setting_title' => 'API Instellingen',
-    'settings' => 'API Instellingen',
+    'api_enabled' => 'API ingeschakeld?',
 ];
