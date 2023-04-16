@@ -8,7 +8,7 @@ return [
     'deactivate' => 'Deactiveren',
     'author' => 'Door',
     'update_plugin_status_success' => 'Plug-in succesvol bijgewerkt',
-    'plugins' => 'Plugins',
+    'plugins' => 'Plug-ins',
     'missing_required_plugins' => 'Activeer plug-in(s): :plugins voordat u deze plug-in activeert!',
     'remove' => 'Verwijderen',
     'remove_plugin_success' => 'Plug-in succesvol verwijderd!',
